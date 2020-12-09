@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<chanel>
+		<title>Insta-Smoothie : Nove Ponude</title>
+		<link></link>
+		<description>Obaveštenja o novim ponudama u našem meniju</description>
+		
+		<item>
+			<title>Citrusni-Ananas Smuti</title>
+			<link></link>
+			<description>Savršen spoj ananasa, mandarine i šargarepe čini božanstven i nezaboravan ukus... Pogledajte našu novu ponudu!</description>
+		</item>
+		<item>
+			<title>Mača Zeleni Čaj</title>
+			<link></link>
+			<description>Mača zeleni čaj predstavlja odličan zeleni čaj u prahu. Dobija se pulverzacijom suvih listova Tenča čaja. Pogledajte više o našem novom proizvodu!</description>
+		</item>
+		<item>
+			<title>Vitaminski Udar</title>
+			<link></link>
+			<description>Pun je vitamina C i savršen je partner Vašem imunom sistemu, koji je jako važan u borbi protiv raznih virusa i gripova. Pogledajte više o Vitaminskom Udaru na našem sajtu!</description>
+		</item>
+	
+	</chanel>
+</rss>
