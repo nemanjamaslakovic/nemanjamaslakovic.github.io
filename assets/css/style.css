@@ -88,8 +88,8 @@ nav ul li a:hover, nav ul li .active{
 	to {top: 0px; transform: scale(1);}
 }
 #naslov p{
-	transition-duration: 1s;
-	transform: scale(1.0);
+	animation-name: animacija;
+	animation-duration: 1.2s;
 }
 .onama{
 	height: 450px;
