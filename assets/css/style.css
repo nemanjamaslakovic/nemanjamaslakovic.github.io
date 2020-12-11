@@ -25,27 +25,27 @@ a{
 	width: 60%;
 	margin: 0px auto;
 }
-.navigacija{
+nav{
 	width: 30%;
 	float: left;
 	margin-top: 25px;
 	text-align: center;
 }
-.navigaciju ul{
+nav ul{
 	list-style-type: none;
 }
-.navigacija ul li{
+nav ul li{
 	display: inline;
 	font-size: 20px;
 	margin-left: 7%;
 }
-.navigacija ul li:last-child{
+nav ul li:last-child{
 	margin-right: 5%;
 }
-.navigacija ul li a{
+nav ul li a{
 	color: #fff;
 }
-.navigacija ul li a:hover, .navigacija ul li .active{
+nav ul li a:hover, nav ul li .active{
 	color: #7fd858;
 }
 #logo{
