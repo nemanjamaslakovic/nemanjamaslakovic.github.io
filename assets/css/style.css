@@ -61,6 +61,7 @@ nav ul li a:hover, nav ul li .active{
 	background-position: 0px -200px;
 	background-repeat: no-repeat;
 	background-image: url(../img/probati.jpg);
+	background-attachment: fixed;
 }
 .zatamljenje{
 	background-color: rgba(0, 0, 0, 0.4);
